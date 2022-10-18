@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 - 🔭 I’m currently working on [a Reactjs e-commerce story page store](https://vasiti-ng.netlify.app/)
-- 🌱 I’m currently learning **python|Django|graphql...**
-- 👯 I’m looking to collaborate on **javascript|react|python.**
+- 🌱 I’m currently learning **python | Django | graphql...**
+- 👯 I’m looking to collaborate on **javascript | react | python.**
 - 🤝 I’m looking for help with **join a company to make an impact**
 - 👨‍💻 All of my projects are available at [https://lemuella-portfolio.netlify.app/](https://lemuella-portfolio.netlify.app/)
 - 💬 Ask me about **anything👓**
