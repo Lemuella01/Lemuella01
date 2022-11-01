@@ -23,3 +23,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemuella01&show_icons=true&locale=en" alt="lemuella01" />
+  
+  
+  <br><br>
+## Projects
+- <strong>Frontend mentor challeng  ui design to React [Code](https://github.com/Lemuella01/fec-skillzed/tree/assignment)/[Live](https://fec-skillzed.netlify.app/):</strong> My work on converting the Frontend challenge ui design  found on the internent to a responsive React website .
+  *<strong>Tools:</strong> ``react``, ``react-router-dom``,  ``TailwindCSS``.*
